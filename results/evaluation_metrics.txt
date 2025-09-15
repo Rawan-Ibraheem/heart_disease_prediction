@@ -47,7 +47,7 @@ Decision Tree (opt)      0.803  0.778    0.865        0.815333
 Best Model (Balanced Score): SVM (opt)
 
 ----------------------------------------------
-nsupervised Learning (Clustering)
+Unsupervised Learning (Clustering)
 ----------------------------------------------
 K-Means ARI: 0.266
 K-Means NMI: 0.204
