@@ -9,7 +9,7 @@ The final best-performing model was an **optimized Support Vector Machine (SVM)*
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ###  1. Data Preprocessing
 - Handled missing values  
